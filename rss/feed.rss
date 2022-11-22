@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>News about dufferents Ides</description>
+        <link>https://yagodiazjusto.github.io/projectRSSide/</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>a22yagodj@iessanclemente.net (yago Diaz)</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://yagodiazjusto.github.io/projectRSSide/eclipse.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>trics on Eclipse</description>
+        </item>
+        <item>
+            <title>Netbeans</title>
+            <link>https://yagodiazjusto.github.io/projectRSSide/netbeans.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>trics on Netbeans</description>
+        </item>
+    </channel>
+</rss>
